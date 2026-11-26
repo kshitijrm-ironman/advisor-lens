@@ -1,0 +1,6 @@
+.venv/
+fx/
+__pycache__/
+.deps_ok
+advisor_latest.md
+advisor_claude.md

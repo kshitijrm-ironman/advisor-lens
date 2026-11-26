@@ -1,0 +1,12 @@
+[theme]
+base = "dark"
+backgroundColor = "#0b0d11"
+secondaryBackgroundColor = "#12161c"
+primaryColor = "#b9a6ff"
+font = "monospace"
+
+[client]
+toolbarMode = "viewer"   # hides the Deploy button
+
+[browser]
+gatherUsageStats = false
